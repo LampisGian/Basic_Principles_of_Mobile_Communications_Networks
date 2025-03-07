@@ -1,0 +1,26 @@
+version: '3.9'
+
+services:
+
+  gaming_server:
+    build:
+      context: ./servers/gaming_server
+    container_name: gaming_server_container
+    ports:
+      - "8080:8080/udp"
+    networks:
+      - server_network
+
+  streaming_server:
+    build:
+      context: ./servers/streaming_server
+    container_name: streaming_server_container
+    ports:
+      - "5001:5001"
+    networks:
+      - server_network
+
+networks:
+  server_network:
+    name: server_network  # Προσθέστε αυτό το όρισμα για να ορίσετε ρητά το όνομα
+    driver: bridge

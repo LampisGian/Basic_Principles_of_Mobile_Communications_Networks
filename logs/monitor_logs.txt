@@ -1,0 +1,528 @@
+
+[1;35m[Handover][0m Moving container '[1;34mvideo_device_2[0m' from '[1;36mbase_station_2[0m' to '[1;36mbase_station_1[0m'.
+
+[1;35m[Handover][0m Moving container '[1;34mgaming_device_4[0m' from '[1;36mbase_station_3[0m' to '[1;36mbase_station_2[0m'.
+
+[1;35m[Handover][0m Moving container '[1;34mgaming_device_2[0m' from '[1;36mbase_station_1[0m' to '[1;36mbase_station_2[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_1[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_4[0m' with 20.04 MB/s needs to be moved.
+
+[1;34m[Suggestion][0m Move container '[1;34mstreaming_device_4[0m' to '[1;36mbase_station_3[0m' (Free Bandwidth: 44.38 MB/s).
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_4[0m' moved to '[1;36mbase_station_3[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_2[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_1[0m' with 20.04 MB/s needs to be moved.
+
+[1;34m[Suggestion][0m Move container '[1;34mstreaming_device_1[0m' to '[1;36mbase_station_3[0m' (Free Bandwidth: 44.38 MB/s).
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_1[0m' moved to '[1;36mbase_station_3[0m'.
+
+[1;35m[Handover][0m Moving container '[1;34mstreaming_device_2[0m' from '[1;36mbase_station_1[0m' to '[1;36mbase_station_2[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_3[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_4[0m' with 30.05 MB/s needs to be moved.
+
+[1;34m[Suggestion][0m Move container '[1;34mstreaming_device_4[0m' to '[1;36mbase_station_1[0m' (Free Bandwidth: 38.33 MB/s).
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_4[0m' moved to '[1;36mbase_station_1[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_2[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_3[0m' with 30.06 MB/s needs to be moved.
+
+[1;34m[Suggestion][0m Move container '[1;34mstreaming_device_3[0m' to '[1;36mbase_station_1[0m' (Free Bandwidth: 38.33 MB/s).
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_3[0m' moved to '[1;36mbase_station_1[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_1[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_3[0m' with 20.04 MB/s needs to be moved.
+
+[1;34m[Suggestion][0m Move container '[1;34mstreaming_device_3[0m' to '[1;36mbase_station_3[0m' (Free Bandwidth: 23.45 MB/s).
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_3[0m' moved to '[1;36mbase_station_3[0m'.
+
+[1;35m[Handover][0m Moving container '[1;34mvideo_device_3[0m' from '[1;36mbase_station_1[0m' to '[1;36mbase_station_2[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_3[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_3[0m' with 30.06 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_3[0m' could not be moved. Remaining at '[1;36mbase_station_3[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_2[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_2[0m' with 30.06 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_2[0m' could not be moved. Remaining at '[1;36mbase_station_2[0m'.
+
+[1;35m[Handover][0m Moving container '[1;34mgaming_device_3[0m' from '[1;36mbase_station_2[0m' to '[1;36mbase_station_3[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_3[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_3[0m' with 30.05 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_3[0m' could not be moved. Remaining at '[1;36mbase_station_3[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_2[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_2[0m' with 30.05 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_2[0m' could not be moved. Remaining at '[1;36mbase_station_2[0m'.
+
+[1;35m[Handover][0m Moving container '[1;34mvideo_device_1[0m' from '[1;36mbase_station_2[0m' to '[1;36mbase_station_1[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_3[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_1[0m' with 30.06 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_1[0m' could not be moved. Remaining at '[1;36mbase_station_3[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_3[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_1[0m' with 30.06 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_1[0m' could not be moved. Remaining at '[1;36mbase_station_3[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_3[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_3[0m' with 30.06 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_3[0m' could not be moved. Remaining at '[1;36mbase_station_3[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_2[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_2[0m' with 30.06 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_2[0m' could not be moved. Remaining at '[1;36mbase_station_2[0m'.
+
+[1;35m[Handover][0m Moving container '[1;34mstreaming_device_1[0m' from '[1;36mbase_station_3[0m' to '[1;36mbase_station_1[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_1[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_4[0m' with 30.05 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_4[0m' could not be moved. Remaining at '[1;36mbase_station_1[0m'.
+
+[1;35m[Handover][0m Moving container '[1;34mstreaming_device_4[0m' from '[1;36mbase_station_1[0m' to '[1;36mbase_station_3[0m'.
+
+[1;35m[Handover][0m Moving container '[1;34mgaming_device_1[0m' from '[1;36mbase_station_2[0m' to '[1;36mbase_station_1[0m'.
+
+[1;35m[Handover][0m Moving container '[1;34mstreaming_device_3[0m' from '[1;36mbase_station_3[0m' to '[1;36mbase_station_1[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_3[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_4[0m' with 40.07 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_4[0m' could not be moved. Remaining at '[1;36mbase_station_3[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_1[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_3[0m' with 40.07 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_3[0m' could not be moved. Remaining at '[1;36mbase_station_1[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_1[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_1[0m' with 20.04 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_1[0m' could not be moved. Remaining at '[1;36mbase_station_1[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_1[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_1[0m' with 30.06 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_1[0m' could not be moved. Remaining at '[1;36mbase_station_1[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_1[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_1[0m' with 20.04 MB/s needs to be moved.
+
+[1;34m[Suggestion][0m Move container '[1;34mstreaming_device_1[0m' to '[1;36mbase_station_3[0m' (Free Bandwidth: 21.60 MB/s).
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_1[0m' moved to '[1;36mbase_station_3[0m'.
+
+[1;35m[Handover][0m Moving container '[1;34mstreaming_device_4[0m' from '[1;36mbase_station_3[0m' to '[1;36mbase_station_2[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_2[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_4[0m' with 30.06 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_4[0m' could not be moved. Remaining at '[1;36mbase_station_2[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_2[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_4[0m' with 20.04 MB/s needs to be moved.
+
+[1;34m[Suggestion][0m Move container '[1;34mstreaming_device_4[0m' to '[1;36mbase_station_3[0m' (Free Bandwidth: 20.71 MB/s).
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_4[0m' moved to '[1;36mbase_station_3[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_3[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_1[0m' with 30.06 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_1[0m' could not be moved. Remaining at '[1;36mbase_station_3[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_3[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_1[0m' with 30.05 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_1[0m' could not be moved. Remaining at '[1;36mbase_station_3[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_3[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_4[0m' with 30.06 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_4[0m' could not be moved. Remaining at '[1;36mbase_station_3[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_3[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_1[0m' with 30.05 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_1[0m' could not be moved. Remaining at '[1;36mbase_station_3[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_3[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_1[0m' with 20.04 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_1[0m' could not be moved. Remaining at '[1;36mbase_station_3[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_3[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_1[0m' with 30.06 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_1[0m' could not be moved. Remaining at '[1;36mbase_station_3[0m'.
+
+[1;35m[Handover][0m Moving container '[1;34mstreaming_device_4[0m' from '[1;36mbase_station_3[0m' to '[1;36mbase_station_2[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_2[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_4[0m' with 30.05 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_4[0m' could not be moved. Remaining at '[1;36mbase_station_2[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_2[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_2[0m' with 20.04 MB/s needs to be moved.
+
+[1;34m[Suggestion][0m Move container '[1;34mstreaming_device_2[0m' to '[1;36mbase_station_3[0m' (Free Bandwidth: 22.54 MB/s).
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_2[0m' moved to '[1;36mbase_station_3[0m'.
+
+[1;35m[Handover][0m Moving container '[1;34mgaming_device_4[0m' from '[1;36mbase_station_2[0m' to '[1;36mbase_station_1[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_3[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_1[0m' with 30.05 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_1[0m' could not be moved. Remaining at '[1;36mbase_station_3[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_3[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_2[0m' with 40.07 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_2[0m' could not be moved. Remaining at '[1;36mbase_station_3[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_2[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_4[0m' with 40.08 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_4[0m' could not be moved. Remaining at '[1;36mbase_station_2[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_1[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_3[0m' with 40.11 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_3[0m' could not be moved. Remaining at '[1;36mbase_station_1[0m'.
+
+[1;35m[Handover][0m Moving container '[1;34mvideo_device_2[0m' from '[1;36mbase_station_1[0m' to '[1;36mbase_station_2[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_3[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_2[0m' with 30.06 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_2[0m' could not be moved. Remaining at '[1;36mbase_station_3[0m'.
+
+[1;35m[Handover][0m Moving container '[1;34mgaming_device_2[0m' from '[1;36mbase_station_2[0m' to '[1;36mbase_station_1[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_3[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_2[0m' with 30.06 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_2[0m' could not be moved. Remaining at '[1;36mbase_station_3[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_3[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_1[0m' with 30.06 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_1[0m' could not be moved. Remaining at '[1;36mbase_station_3[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_1[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_3[0m' with 30.05 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_3[0m' could not be moved. Remaining at '[1;36mbase_station_1[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_3[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_1[0m' with 20.04 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_1[0m' could not be moved. Remaining at '[1;36mbase_station_3[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_1[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_3[0m' with 30.05 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_3[0m' could not be moved. Remaining at '[1;36mbase_station_1[0m'.
+
+[1;35m[Handover][0m Moving container '[1;34mvideo_device_3[0m' from '[1;36mbase_station_2[0m' to '[1;36mbase_station_1[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_3[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_2[0m' with 40.08 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_2[0m' could not be moved. Remaining at '[1;36mbase_station_3[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_1[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_3[0m' with 40.08 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_3[0m' could not be moved. Remaining at '[1;36mbase_station_1[0m'.
+
+[1;35m[Handover][0m Moving container '[1;34mstreaming_device_2[0m' from '[1;36mbase_station_3[0m' to '[1;36mbase_station_1[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_1[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_2[0m' with 30.06 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_2[0m' could not be moved. Remaining at '[1;36mbase_station_1[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_1[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_2[0m' with 30.06 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_2[0m' could not be moved. Remaining at '[1;36mbase_station_1[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_1[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_2[0m' with 30.05 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_2[0m' could not be moved. Remaining at '[1;36mbase_station_1[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_3[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_1[0m' with 40.07 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_1[0m' could not be moved. Remaining at '[1;36mbase_station_3[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_1[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_3[0m' with 50.09 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_3[0m' could not be moved. Remaining at '[1;36mbase_station_1[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_2[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_4[0m' with 50.10 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_4[0m' could not be moved. Remaining at '[1;36mbase_station_2[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_1[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_3[0m' with 30.06 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_3[0m' could not be moved. Remaining at '[1;36mbase_station_1[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_1[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_3[0m' with 30.06 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_3[0m' could not be moved. Remaining at '[1;36mbase_station_1[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_1[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_2[0m' with 30.06 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_2[0m' could not be moved. Remaining at '[1;36mbase_station_1[0m'.
+
+[1;35m[Handover][0m Moving container '[1;34mvideo_device_1[0m' from '[1;36mbase_station_1[0m' to '[1;36mbase_station_2[0m'.
+
+[1;35m[Handover][0m Moving container '[1;34mstreaming_device_1[0m' from '[1;36mbase_station_3[0m' to '[1;36mbase_station_2[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_1[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_2[0m' with 30.06 MB/s needs to be moved.
+
+[1;34m[Suggestion][0m Move container '[1;34mstreaming_device_2[0m' to '[1;36mbase_station_3[0m' (Free Bandwidth: 36.89 MB/s).
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_2[0m' moved to '[1;36mbase_station_3[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_2[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_1[0m' with 30.06 MB/s needs to be moved.
+
+[1;34m[Suggestion][0m Move container '[1;34mstreaming_device_1[0m' to '[1;36mbase_station_3[0m' (Free Bandwidth: 36.89 MB/s).
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_1[0m' moved to '[1;36mbase_station_3[0m'.
+
+[1;35m[Handover][0m Moving container '[1;34mgaming_device_1[0m' from '[1;36mbase_station_1[0m' to '[1;36mbase_station_2[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_3[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_2[0m' with 40.07 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_2[0m' could not be moved. Remaining at '[1;36mbase_station_3[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_1[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_3[0m' with 40.07 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_3[0m' could not be moved. Remaining at '[1;36mbase_station_1[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_2[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_4[0m' with 40.08 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_4[0m' could not be moved. Remaining at '[1;36mbase_station_2[0m'.
+
+[1;35m[Handover][0m Moving container '[1;34mvideo_device_4[0m' from '[1;36mbase_station_3[0m' to '[1;36mbase_station_2[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_2[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_4[0m' with 30.05 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_4[0m' could not be moved. Remaining at '[1;36mbase_station_2[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_1[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_3[0m' with 30.06 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_3[0m' could not be moved. Remaining at '[1;36mbase_station_1[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_3[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_2[0m' with 40.07 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_2[0m' could not be moved. Remaining at '[1;36mbase_station_3[0m'.
+
+[1;35m[Handover][0m Moving container '[1;34mstreaming_device_3[0m' from '[1;36mbase_station_1[0m' to '[1;36mbase_station_2[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_2[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_4[0m' with 30.05 MB/s needs to be moved.
+
+[1;34m[Suggestion][0m Move container '[1;34mstreaming_device_4[0m' to '[1;36mbase_station_1[0m' (Free Bandwidth: 32.10 MB/s).
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_4[0m' moved to '[1;36mbase_station_1[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_3[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_2[0m' with 30.06 MB/s needs to be moved.
+
+[1;34m[Suggestion][0m Move container '[1;34mstreaming_device_2[0m' to '[1;36mbase_station_1[0m' (Free Bandwidth: 32.10 MB/s).
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_2[0m' moved to '[1;36mbase_station_1[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_2[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_3[0m' with 40.08 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_3[0m' could not be moved. Remaining at '[1;36mbase_station_2[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_1[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_2[0m' with 40.07 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_2[0m' could not be moved. Remaining at '[1;36mbase_station_1[0m'.
+
+[1;35m[Handover][0m Moving container '[1;34mgaming_device_4[0m' from '[1;36mbase_station_1[0m' to '[1;36mbase_station_3[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_2[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_3[0m' with 40.07 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_3[0m' could not be moved. Remaining at '[1;36mbase_station_2[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_1[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_4[0m' with 40.07 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_4[0m' could not be moved. Remaining at '[1;36mbase_station_1[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_2[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_3[0m' with 30.06 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_3[0m' could not be moved. Remaining at '[1;36mbase_station_2[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_1[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_2[0m' with 40.08 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_2[0m' could not be moved. Remaining at '[1;36mbase_station_1[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_3[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_1[0m' with 40.08 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_1[0m' could not be moved. Remaining at '[1;36mbase_station_3[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_2[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_3[0m' with 30.06 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_3[0m' could not be moved. Remaining at '[1;36mbase_station_2[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_1[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_2[0m' with 30.06 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_2[0m' could not be moved. Remaining at '[1;36mbase_station_1[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_2[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_3[0m' with 30.06 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_3[0m' could not be moved. Remaining at '[1;36mbase_station_2[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_1[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_4[0m' with 30.06 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_4[0m' could not be moved. Remaining at '[1;36mbase_station_1[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_2[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_3[0m' with 30.06 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_3[0m' could not be moved. Remaining at '[1;36mbase_station_2[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_1[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_4[0m' with 30.06 MB/s needs to be moved.
+
+[1;31m[Handover Failure][0m Container '[1;34mstreaming_device_4[0m' could not be moved. Remaining at '[1;36mbase_station_1[0m'.
+
+[1;35m[Handover][0m Moving container '[1;34mstreaming_device_1[0m' from '[1;36mbase_station_3[0m' to '[1;36mbase_station_2[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_2[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_1[0m' with 30.06 MB/s needs to be moved.
+
+[1;34m[Suggestion][0m Move container '[1;34mstreaming_device_1[0m' to '[1;36mbase_station_3[0m' (Free Bandwidth: 41.41 MB/s).
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_1[0m' moved to '[1;36mbase_station_3[0m'.
+
+[1;31m[Warning][0m Base Station '[1;36mbase_station_1[0m' exceeded max bandwidth!
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_2[0m' with 20.04 MB/s needs to be moved.
+
+[1;34m[Suggestion][0m Move container '[1;34mstreaming_device_2[0m' to '[1;36mbase_station_3[0m' (Free Bandwidth: 41.41 MB/s).
+
+[1;92m[Action][0m Container '[1;34mstreaming_device_2[0m' moved to '[1;36mbase_station_3[0m'.

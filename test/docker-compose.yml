@@ -1,0 +1,13 @@
+version: "3.8"
+services:
+  player1:
+    image: video-player-alpine
+    container_name: video_player_1
+
+  player2:
+    image: video-player-alpine
+    container_name: video_player_2
+
+  player3:
+    image: video-player-alpine
+    container_name: video_player_3

@@ -1,0 +1,6 @@
+docker
+flask
+matplotlib
+psutil
+tabulate
+requests
